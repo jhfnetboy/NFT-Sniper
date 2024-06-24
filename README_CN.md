@@ -24,6 +24,8 @@
 + [Progress kanban](https://xstack.notion.site/Poap-cz-a1892a22cb244aaf88b0e39563ca239f)
 + [Feature list](https://xstack.notion.site/Poap-cz-cd5fee5d85094881b6dff6ef9af3ee0b)
 ----
+## Contribution Guideline
++ 
 + 以下都是计划, **建设中**.
 ----
 ## Charactors
